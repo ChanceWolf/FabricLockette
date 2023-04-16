@@ -1,4 +1,15 @@
 # FabricLockette
+
+My first time messing with Github and Forking and all this modern development stuff, if you're looking for Lockette stuff to ACTUALLY use, please look elsewhere.
+I HAVE NO IDEA WHAT I'M DOING
+But I hope to have an idea soon.
+Bebbeh's first GitHub Repo.
+
+-CW
+
+
+Original stuff below:
+
 ![FabricLockette banner](./ressources/FabricLockette_banner.png)
 
 ![Build](https://github.com/DevEkode/FabricLockette/workflows/Build/badge.svg)
